@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FavoriteBooksApp</string>
+    <string name="welcome">Welcome to Favorite Books App\n</string>
+    <string name="browse_library">Browse library\n</string>
+    <string name="view_favorite_books">View Favorite Books\n</string>
+    <string name="empty_string" />
+    <string name="all_books">Library</string>
+    <string name="favorite_books">Favorite Books</string>
+    <string name="search_title">Book Title\n</string>
+    <string name="search_author">Book Author(s)\n</string>
+    <string name="search_text">Search books\n</string>
+    <string name="book_details">Book Details\n</string>
+</resources>
